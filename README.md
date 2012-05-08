@@ -14,4 +14,3 @@ Step to getting involved:
        git clone git@github.com:username/RPGTCG.git
 6) Create a Remote for the upstream repository:
    git remote add upstream git://github.com/MagnusVortex/RPGTCG.git
-
