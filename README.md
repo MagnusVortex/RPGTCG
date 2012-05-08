@@ -12,4 +12,4 @@ Step to getting involved:
 4) Create a local directory to contain the project.
 5) Clone your fork, by running the following command in git bash (username is your username for github)
        git clone git@github.com:username/RPGTCG.git
-6) 
+6) Checking to see if this update thing works.
