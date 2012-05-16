@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<game xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" name="RPGTCG" id="dd14723d-df25-4184-bcb2-f9ac6475ba34" octgnVersion="3.0.0.8" version="0.1" markersize="0">
+	<card back="" front="" width="0" height="0" cornerRadius="0" />
+	<table name="Table" visibility="all" ordered="false" width="0" height="0" />
+	<player>
+		<hand name="Hand" visibility="me" ordered="false" width="0" height="0" icon="" />
+		<group name="Group2" visibility="undefined" ordered="false" width="0" height="0" icon="" collapsed="false" />
+	</player>
+</game>

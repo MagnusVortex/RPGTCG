@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<set xmlns:noNamespaceSchemaLocation="CardSet.xsd" name="Base Set" id="4d8d72d6-8a6b-445a-9cbf-07104b330836" gameId="00000000-0000-0000-0000-000000000000" gameVersion="">
+	<cards>
+		<card id="16ff3651-addc-4ce7-b386-f53766c1d0df" name="Dagger" />
+	</cards>
+</set>
