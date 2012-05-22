@@ -1,9 +1,25 @@
 <?xml version="1.0" encoding="utf-8"?>
 <game xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" name="RPGTCG" id="dd14723d-df25-4184-bcb2-f9ac6475ba34" octgnVersion="3.0.0.8" version="0.1" markersize="0">
-	<card back="" front="" width="0" height="0" cornerRadius="0" />
-	<table name="Table" visibility="all" ordered="false" width="0" height="0" />
+	<card back="" front="" width="0" height="0" cornerRadius="0">
+		<property name="Type" type="String" hidden="false" ignoreText="False" textKind="Free" />
+		<property name="Cost" type="Integer" hidden="false" />
+		<property name="Attack Power" type="Integer" hidden="false" />
+	</card>
+	<table name="Table" visibility="all" ordered="false" width="0" height="0">
+		<groupactions menu="Action1">
+			<groupaction menu="Action3" default="false" />
+		</groupactions>
+		<groupaction menu="Action2" default="false" />
+		<groupaction menu="Action4" default="false" />
+	</table>
 	<player>
 		<hand name="Hand" visibility="me" ordered="false" width="0" height="0" icon="" />
 		<group name="Group2" visibility="undefined" ordered="false" width="0" height="0" icon="" collapsed="false" />
+		<group name="Deck" visibility="none" ordered="true" width="0" height="0" icon="" collapsed="true" />
+		<group name="Spent Energy" visibility="all" ordered="true" width="0" height="0" icon="" collapsed="true" />
+		<counter name="Energy" default="0" reset="false" />
 	</player>
+	<deck>
+		<section name="Umm, what's this do?" group="Deck" />
+	</deck>
 </game>

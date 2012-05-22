@@ -1,6 +1,13 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<set xmlns:noNamespaceSchemaLocation="CardSet.xsd" name="Base Set" id="4d8d72d6-8a6b-445a-9cbf-07104b330836" gameId="00000000-0000-0000-0000-000000000000" gameVersion="">
+<set xmlns:noNamespaceSchemaLocation="CardSet.xsd" name="Base Set" id="4d8d72d6-8a6b-445a-9cbf-07104b330836" gameId="dd14723d-df25-4184-bcb2-f9ac6475ba34" gameVersion="">
 	<cards>
-		<card id="16ff3651-addc-4ce7-b386-f53766c1d0df" name="Dagger" />
+		<card id="02c50e55-f650-4f02-8f3e-9057bee414fb" name="Fighter">
+			<property name="Attack Power" value="1" />
+			<property name="Cost" value="0" />
+		</card>
+		<card id="16ff3651-addc-4ce7-b386-f53766c1d0df" name="Dagger">
+			<property name="Cost" value="2" />
+			<property name="Attack Power" value="1" />
+		</card>
 	</cards>
 </set>
