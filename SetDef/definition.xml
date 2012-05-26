@@ -9,5 +9,161 @@
 			<property name="Cost" value="2" />
 			<property name="Attack Power" value="1" />
 		</card>
+		<card id="dc21c48f-00bc-4eba-b3e1-fe37e9ce9788" name="Long Sword">
+			<property name="Attack Power" value="3" />
+			<property name="Cost" value="2" />
+		</card>
+		<card id="ffeb336a-07db-47df-8e7b-9f1d1f20a938" name="Greatsword">
+			<property name="Attack Power" value="6" />
+			<property name="Cost" value="4" />
+		</card>
+		<card id="de8fe8c2-7842-46a0-87d9-34ea7d73d336" name="Warhammer">
+			<property name="Attack Power" value="4" />
+			<property name="Cost" value="4" />
+		</card>
+		<card id="3fc13cf9-1187-4f4b-8e83-01a23fda5577" name="Tower Shield">
+			<property name="Attack Power" value="" />
+			<property name="Cost" value="4" />
+		</card>
+		<card id="c5426c3b-9023-471c-b1be-0c6c450df868" name="Plate Mail">
+			<property name="Attack Power" value="" />
+			<property name="Cost" value="" />
+		</card>
+		<card id="2655e8cd-04ec-4737-8aac-f79ae6a2bded" name="Kite Shield">
+			<property name="Attack Power" value="" />
+			<property name="Cost" value="3" />
+		</card>
+		<card id="f33a16b6-ae30-4a1f-8225-57ec5d8fd2dd" name="Improved Block">
+			<property name="Attack Power" value="" />
+			<property name="Cost" value="2" />
+		</card>
+		<card id="e34bd420-ca15-42c3-a17d-1c73d4b1be35" name="Spell Shield">
+			<property name="Attack Power" value="" />
+			<property name="Cost" value="" />
+		</card>
+		<card id="16837537-3dda-4809-ac9d-c1863dcaac68" name="Undying Rage">
+			<property name="Attack Power" value="" />
+			<property name="Cost" value="" />
+		</card>
+		<card id="c167c35f-d4d6-4285-8d5a-b6f98a3e85c8" name="Improved Regeneration">
+			<property name="Attack Power" value="" />
+			<property name="Cost" value="2" />
+		</card>
+		<card id="40fcb3bc-cecf-4546-9d79-0150acad8d03" name="Cleave">
+			<property name="Attack Power" value="4" />
+			<property name="Cost" value="2" />
+		</card>
+		<card id="1e4450e3-19b0-411a-84e1-8b6d449f3098" name="Stun">
+			<property name="Attack Power" value="" />
+			<property name="Cost" value="" />
+		</card>
+		<card id="7b1d3ef0-4acf-4d2e-8229-5e5df3ee01ea" name="Whirlwind">
+			<property name="Attack Power" value="2" />
+			<property name="Cost" value="3" />
+		</card>
+		<card id="b4318026-4cf4-4f40-83c9-06569da70099" name="Parry">
+			<property name="Attack Power" value="" />
+			<property name="Cost" value="" />
+		</card>
+		<card id="9e929933-04f8-4896-9fa8-d216ece964ea" name="Chainmail">
+			<property name="Attack Power" value="" />
+			<property name="Cost" value="3" />
+		</card>
+		<card id="ae627d3d-dd1d-4942-9023-84e56308c1ca" name="Backstab">
+			<property name="Attack Power" value="5" />
+			<property name="Cost" value="3" />
+		</card>
+		<card id="102cd27a-9ef5-4d42-9e6e-220d90962264" name="Smoke Bomb">
+			<property name="Attack Power" value="" />
+			<property name="Cost" value="2" />
+		</card>
+		<card id="c2952db0-6b0b-4bb8-bcca-92a9bb163970" name="Poison">
+			<property name="Attack Power" value="" />
+			<property name="Cost" value="2" />
+		</card>
+		<card id="67ec4e04-2b8c-4a8a-87d8-632550afcc86" name="Disarm">
+			<property name="Attack Power" value="" />
+			<property name="Cost" value="2" />
+		</card>
+		<card id="f523a356-da54-40b7-95b1-603ca2876a81" name="Buckler">
+			<property name="Attack Power" value="" />
+			<property name="Cost" value="1" />
+		</card>
+		<card id="51f4c1e3-13b9-4392-9718-920814f15fcd" name="Rend Flesh">
+			<property name="Attack Power" value="1" />
+			<property name="Cost" value="2" />
+		</card>
+		<card id="7bf22ba8-b42c-453a-a354-8402b6c813cd" name="Fireball">
+			<property name="Attack Power" value="" />
+			<property name="Cost" value="3" />
+		</card>
+		<card id="4f00d9d1-77e6-4e5f-a5c1-d83a09953282" name="Golem">
+			<property name="Attack Power" value="" />
+			<property name="Cost" value="2" />
+		</card>
+		<card id="1d5e4920-a258-4e37-9098-e6408475a84b" name="Ice Shield">
+			<property name="Attack Power" value="" />
+			<property name="Cost" value="2" />
+		</card>
+		<card id="5d67fac0-d486-41c8-b8d7-7766b3a094ae" name="Lightning">
+			<property name="Attack Power" value="" />
+			<property name="Cost" value="3" />
+		</card>
+		<card id="a1ee5b4d-62c7-4929-8d29-de9982e7a9c3" name="Wizard Hat">
+			<property name="Attack Power" value="" />
+			<property name="Cost" value="3" />
+		</card>
+		<card id="3995c58b-3121-4a2b-96dd-859a18ce53d0" name="Cloth Robes">
+			<property name="Attack Power" value="" />
+			<property name="Cost" value="1" />
+		</card>
+		<card id="5bf6c650-590f-4245-a218-8d192b473fe0" name="Fire Shield">
+			<property name="Attack Power" value="" />
+			<property name="Cost" value="3" />
+		</card>
+		<card id="34dddb1b-715e-4b2a-a879-9e0861bcbbb5" name="Drain Magics">
+			<property name="Attack Power" value="" />
+			<property name="Cost" value="2" />
+		</card>
+		<card id="a15866d0-66b6-4a60-af80-52a7d968658e" name="Meteor Swarm">
+			<property name="Attack Power" value="" />
+			<property name="Cost" value="6" />
+		</card>
+		<card id="29ff808f-e62b-4ecb-b125-6d78fb6814fc" name="Some Type of Draw Spell">
+			<property name="Attack Power" value="" />
+			<property name="Cost" value="2" />
+		</card>
+		<card id="dac0ca6e-9141-4856-b381-621abefb4de3" name="Rebalance">
+			<property name="Attack Power" value="" />
+			<property name="Cost" value="1" />
+		</card>
+		<card id="62b91e4f-9da3-406b-804e-27b929fa5f22" name="Entangling Roots">
+			<property name="Attack Power" value="" />
+			<property name="Cost" value="2" />
+		</card>
+		<card id="7e306630-0795-4a42-aab7-92014e41e3f7" name="Leather Armor">
+			<property name="Attack Power" value="" />
+			<property name="Cost" value="2" />
+		</card>
+		<card id="de2bbf08-438d-4dd5-be16-6182f147320f" name="Elemental Ward">
+			<property name="Attack Power" value="" />
+			<property name="Cost" value="2" />
+		</card>
+		<card id="27a7e861-f149-4c01-9926-5c9f6811d513" name="Increase Regeneration Aura">
+			<property name="Attack Power" value="" />
+			<property name="Cost" value="3" />
+		</card>
+		<card id="a2da0bd2-316f-4046-bc79-b6d19335beb4" name="Life Bloom">
+			<property name="Attack Power" value="" />
+			<property name="Cost" value="2" />
+		</card>
+		<card id="927fb0ed-8c92-4ef3-b076-0a65406b07c4" name="Cleanse Poison">
+			<property name="Attack Power" value="" />
+			<property name="Cost" value="1" />
+		</card>
+		<card id="1030be97-0d2b-4f47-8dfa-e7492be624ab" name="Barkskin">
+			<property name="Attack Power" value="" />
+			<property name="Cost" value="2" />
+		</card>
 	</cards>
 </set>

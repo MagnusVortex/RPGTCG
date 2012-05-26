@@ -34,3 +34,7 @@ Github Directions:
 OCTGN Directions:
 
 1) Download and Install the latest version of OCTGN 3.x
+
+2) After finishing step 5 above, zip the contents of the GameDef folder and the SetDef Folder (2 seperate zips). These zip files should install directly into OCTGN.
+
+3) As an alternative, grab the OCTGN 2 Game Editor from the downloads page, and open up the Gamedef folder, then export it. This will automatically zip everything together. Repeat for the SetDef
