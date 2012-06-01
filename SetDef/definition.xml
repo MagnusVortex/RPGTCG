@@ -2,108 +2,729 @@
 <set xmlns:noNamespaceSchemaLocation="CardSet.xsd" name="Base Set" id="4d8d72d6-8a6b-445a-9cbf-07104b330836" gameId="dd14723d-df25-4184-bcb2-f9ac6475ba34" gameVersion="">
 	<cards>
 		<card id="02c50e55-f650-4f02-8f3e-9057bee414fb" name="Fighter">
+			<property name="Type" value="Hero" />
+			<property name="Rules Text" value="Your basic fighter type: Take damage, do damage." />
+			<property name="Cost" value="0" />
+			<property name="Prerequisites" value="" />
+			<property name="Attack Power" value="1" />
+			<property name="Attack Cost" value="1" />
+			<property name="Armor Penetration" value="0" />
+			<property name="Range" value="0" />
+			<property name="Armor" value="0" />
+			<property name="Block" value="50" />
+			<property name="Duration" value="0" />
+			<property name="Charges" value="0" />
+			<property name="Element" value="" />
+			<property name="Status Effect" value="" />
+			<property name="Regeneration" value="1" />
+			<property name="Self Heal" value="0" />
+			<property name="Magic Power" value="0" />
+			<property name="Magic Penetration" value="0" />
+			<property name="Elemental Resistance" value="0" />
+			<property name="Magic Resistance" value="0" />
+			<property name="Flavor Text" value="Bibbee Smash!" />
+			<property name="Activated Ability" value="Endless Rage: Once per game, this hero gains 2 base damage, and cannot die. This effect persists for 4 turns. At the end of these 4 turns, all cards except the bottom card in this hero's library are moved directly to the expended energy zone." />
+			<property name="Equipment Slot" value="" />
+		</card>
+		<card id="02c50e55-f650-4f02-8f3e-9057bee414fc" name="Rogue">
 			<property name="Attack Power" value="1" />
 			<property name="Cost" value="0" />
+			<property name="Range" value="0" />
+			<property name="Type" value="Hero" />
+			<property name="Prerequisites" value="" />
+			<property name="Attack Cost" value="1" />
+			<property name="Block" value="50" />
+			<property name="Regeneration" value="1" />
+			<property name="Self Heal" value="0" />
+			<property name="Rules Text" value="" />
+			<property name="Armor" value="" />
+			<property name="Elemental Resistance" value="0" />
+			<property name="Magic Resistance" value="0" />
+			<property name="Magic Power" value="0" />
+			<property name="Element" value="" />
+			<property name="Armor Penetration" value="0" />
+			<property name="Magic Penetration" value="0" />
+			<property name="Duration" value="" />
+			<property name="Flavor Text" value="No Halberds. No 'fros." />
+			<property name="Activated Ability" value="" />
+			<property name="Equipment Slot" value="" />
+			<property name="Status Effect" value="" />
+			<property name="Charges" value="" />
+		</card>
+		<card id="02c50e55-f650-4f02-8f3e-9057bee414fd" name="Mage">
+			<property name="Attack Power" value="1" />
+			<property name="Cost" value="0" />
+			<property name="Range" value="0" />
+			<property name="Type" value="Hero" />
+			<property name="Prerequisites" value="" />
+			<property name="Attack Cost" value="" />
+			<property name="Block" value="" />
+			<property name="Regeneration" value="" />
+			<property name="Self Heal" value="" />
+			<property name="Rules Text" value="" />
+			<property name="Armor" value="" />
+			<property name="Elemental Resistance" value="" />
+			<property name="Magic Resistance" value="" />
+			<property name="Magic Power" value="" />
+			<property name="Element" value="" />
+			<property name="Armor Penetration" value="" />
+			<property name="Magic Penetration" value="" />
+			<property name="Duration" value="" />
+			<property name="Flavor Text" value="" />
+			<property name="Activated Ability" value="" />
+			<property name="Equipment Slot" value="" />
+			<property name="Status Effect" value="" />
+			<property name="Charges" value="" />
+		</card>
+		<card id="02c50e55-f650-4f02-8f3e-9057bee414fe" name="Druid">
+			<property name="Attack Power" value="1" />
+			<property name="Cost" value="0" />
+			<property name="Range" value="0" />
+			<property name="Type" value="Hero" />
+			<property name="Prerequisites" value="" />
+			<property name="Attack Cost" value="" />
+			<property name="Block" value="" />
+			<property name="Regeneration" value="" />
+			<property name="Self Heal" value="" />
+			<property name="Rules Text" value="" />
+			<property name="Armor" value="" />
+			<property name="Elemental Resistance" value="" />
+			<property name="Magic Resistance" value="" />
+			<property name="Magic Power" value="" />
+			<property name="Element" value="" />
+			<property name="Armor Penetration" value="" />
+			<property name="Magic Penetration" value="" />
+			<property name="Duration" value="" />
+			<property name="Flavor Text" value="" />
+			<property name="Activated Ability" value="" />
+			<property name="Equipment Slot" value="" />
+			<property name="Status Effect" value="" />
+			<property name="Charges" value="" />
 		</card>
 		<card id="16ff3651-addc-4ce7-b386-f53766c1d0df" name="Dagger">
 			<property name="Cost" value="2" />
 			<property name="Attack Power" value="1" />
+			<property name="Type" value="Weapon" />
+			<property name="Prerequisites" value="" />
+			<property name="Attack Cost" value="0" />
+			<property name="Block" value="" />
+			<property name="Regeneration" value="" />
+			<property name="Self Heal" value="" />
+			<property name="Rules Text" value="" />
+			<property name="Range" value="0" />
+			<property name="Armor" value="" />
+			<property name="Elemental Resistance" value="" />
+			<property name="Magic Resistance" value="" />
+			<property name="Magic Power" value="" />
+			<property name="Element" value="" />
+			<property name="Armor Penetration" value="" />
+			<property name="Magic Penetration" value="" />
+			<property name="Duration" value="" />
+			<property name="Flavor Text" value="" />
+			<property name="Activated Ability" value="" />
+			<property name="Equipment Slot" value="Mainhand" />
+			<property name="Status Effect" value="" />
+			<property name="Charges" value="" />
 		</card>
 		<card id="dc21c48f-00bc-4eba-b3e1-fe37e9ce9788" name="Long Sword">
 			<property name="Attack Power" value="3" />
 			<property name="Cost" value="2" />
+			<property name="Type" value="Weapon" />
+			<property name="Prerequisites" value="" />
+			<property name="Attack Cost" value="1" />
+			<property name="Block" value="" />
+			<property name="Regeneration" value="" />
+			<property name="Self Heal" value="" />
+			<property name="Rules Text" value="" />
+			<property name="Range" value="1" />
+			<property name="Armor" value="" />
+			<property name="Elemental Resistance" value="" />
+			<property name="Magic Resistance" value="" />
+			<property name="Magic Power" value="" />
+			<property name="Element" value="" />
+			<property name="Armor Penetration" value="" />
+			<property name="Magic Penetration" value="" />
+			<property name="Duration" value="" />
+			<property name="Flavor Text" value="" />
+			<property name="Activated Ability" value="" />
+			<property name="Equipment Slot" value="Mainhand" />
+			<property name="Status Effect" value="" />
+			<property name="Charges" value="" />
 		</card>
 		<card id="ffeb336a-07db-47df-8e7b-9f1d1f20a938" name="Greatsword">
 			<property name="Attack Power" value="6" />
 			<property name="Cost" value="4" />
+			<property name="Type" value="Weapon" />
+			<property name="Prerequisites" value="" />
+			<property name="Attack Cost" value="2" />
+			<property name="Block" value="" />
+			<property name="Regeneration" value="" />
+			<property name="Self Heal" value="" />
+			<property name="Rules Text" value="" />
+			<property name="Range" value="2" />
+			<property name="Armor" value="" />
+			<property name="Elemental Resistance" value="" />
+			<property name="Magic Resistance" value="" />
+			<property name="Magic Power" value="" />
+			<property name="Element" value="" />
+			<property name="Armor Penetration" value="" />
+			<property name="Magic Penetration" value="" />
+			<property name="Duration" value="" />
+			<property name="Flavor Text" value="" />
+			<property name="Activated Ability" value="" />
+			<property name="Equipment Slot" value="Mainhand Offhand" />
+			<property name="Status Effect" value="" />
+			<property name="Charges" value="" />
 		</card>
 		<card id="de8fe8c2-7842-46a0-87d9-34ea7d73d336" name="Warhammer">
-			<property name="Attack Power" value="4" />
+			<property name="Attack Power" value="3" />
 			<property name="Cost" value="4" />
+			<property name="Type" value="Weapon" />
+			<property name="Prerequisites" value="" />
+			<property name="Attack Cost" value="2" />
+			<property name="Block" value="" />
+			<property name="Regeneration" value="" />
+			<property name="Self Heal" value="" />
+			<property name="Rules Text" value="" />
+			<property name="Range" value="2" />
+			<property name="Armor" value="" />
+			<property name="Elemental Resistance" value="" />
+			<property name="Magic Resistance" value="" />
+			<property name="Magic Power" value="" />
+			<property name="Element" value="" />
+			<property name="Armor Penetration" value="2" />
+			<property name="Magic Penetration" value="" />
+			<property name="Duration" value="" />
+			<property name="Flavor Text" value="" />
+			<property name="Activated Ability" value="" />
+			<property name="Equipment Slot" value="Mainhand Offhand" />
+			<property name="Status Effect" value="" />
+			<property name="Charges" value="" />
 		</card>
 		<card id="3fc13cf9-1187-4f4b-8e83-01a23fda5577" name="Tower Shield">
 			<property name="Attack Power" value="" />
 			<property name="Cost" value="4" />
+			<property name="Type" value="Shield" />
+			<property name="Prerequisites" value="" />
+			<property name="Attack Cost" value="" />
+			<property name="Block" value="75" />
+			<property name="Regeneration" value="" />
+			<property name="Self Heal" value="" />
+			<property name="Rules Text" value="" />
+			<property name="Range" value="" />
+			<property name="Armor" value="1" />
+			<property name="Elemental Resistance" value="" />
+			<property name="Magic Resistance" value="" />
+			<property name="Magic Power" value="" />
+			<property name="Element" value="" />
+			<property name="Armor Penetration" value="" />
+			<property name="Magic Penetration" value="" />
+			<property name="Duration" value="" />
+			<property name="Flavor Text" value="" />
+			<property name="Activated Ability" value="" />
+			<property name="Equipment Slot" value="" />
+			<property name="Status Effect" value="" />
+			<property name="Charges" value="" />
 		</card>
 		<card id="c5426c3b-9023-471c-b1be-0c6c450df868" name="Plate Mail">
 			<property name="Attack Power" value="" />
-			<property name="Cost" value="" />
+			<property name="Cost" value="2" />
+			<property name="Type" value="Armor" />
+			<property name="Prerequisites" value="" />
+			<property name="Attack Cost" value="1" />
+			<property name="Block" value="" />
+			<property name="Regeneration" value="" />
+			<property name="Self Heal" value="" />
+			<property name="Rules Text" value="" />
+			<property name="Range" value="" />
+			<property name="Armor" value="5" />
+			<property name="Elemental Resistance" value="" />
+			<property name="Magic Resistance" value="" />
+			<property name="Magic Power" value="" />
+			<property name="Element" value="" />
+			<property name="Armor Penetration" value="" />
+			<property name="Magic Penetration" value="" />
+			<property name="Duration" value="" />
+			<property name="Flavor Text" value="" />
+			<property name="Activated Ability" value="" />
+			<property name="Equipment Slot" value="" />
+			<property name="Status Effect" value="" />
+			<property name="Charges" value="" />
 		</card>
 		<card id="2655e8cd-04ec-4737-8aac-f79ae6a2bded" name="Kite Shield">
 			<property name="Attack Power" value="" />
 			<property name="Cost" value="3" />
+			<property name="Type" value="Shield" />
+			<property name="Prerequisites" value="" />
+			<property name="Attack Cost" value="" />
+			<property name="Block" value="50" />
+			<property name="Regeneration" value="" />
+			<property name="Self Heal" value="" />
+			<property name="Rules Text" value="Block 1 additional attack for free" />
+			<property name="Range" value="" />
+			<property name="Armor" value="" />
+			<property name="Elemental Resistance" value="" />
+			<property name="Magic Resistance" value="" />
+			<property name="Magic Power" value="" />
+			<property name="Element" value="" />
+			<property name="Armor Penetration" value="" />
+			<property name="Magic Penetration" value="" />
+			<property name="Duration" value="" />
+			<property name="Flavor Text" value="" />
+			<property name="Activated Ability" value="" />
+			<property name="Equipment Slot" value="" />
+			<property name="Status Effect" value="" />
+			<property name="Charges" value="" />
 		</card>
 		<card id="f33a16b6-ae30-4a1f-8225-57ec5d8fd2dd" name="Improved Block">
 			<property name="Attack Power" value="" />
 			<property name="Cost" value="2" />
+			<property name="Type" value="Ability" />
+			<property name="Prerequisites" value="" />
+			<property name="Attack Cost" value="" />
+			<property name="Block" value="75" />
+			<property name="Regeneration" value="" />
+			<property name="Self Heal" value="" />
+			<property name="Rules Text" value="Block 2 additional attacks this round, for 75%" />
+			<property name="Range" value="" />
+			<property name="Armor" value="" />
+			<property name="Elemental Resistance" value="" />
+			<property name="Magic Resistance" value="" />
+			<property name="Magic Power" value="" />
+			<property name="Element" value="" />
+			<property name="Armor Penetration" value="" />
+			<property name="Magic Penetration" value="" />
+			<property name="Duration" value="1" />
+			<property name="Flavor Text" value="" />
+			<property name="Activated Ability" value="" />
+			<property name="Equipment Slot" value="" />
+			<property name="Status Effect" value="" />
+			<property name="Charges" value="" />
 		</card>
 		<card id="e34bd420-ca15-42c3-a17d-1c73d4b1be35" name="Spell Shield">
 			<property name="Attack Power" value="" />
-			<property name="Cost" value="" />
+			<property name="Cost" value="3" />
+			<property name="Type" value="Shield Enchantment" />
+			<property name="Prerequisites" value="" />
+			<property name="Attack Cost" value="" />
+			<property name="Block" value="" />
+			<property name="Regeneration" value="" />
+			<property name="Self Heal" value="" />
+			<property name="Rules Text" value="Empower your shield to reduce magic damage for the next 2 magic assaults" />
+			<property name="Range" value="" />
+			<property name="Armor" value="" />
+			<property name="Elemental Resistance" value="" />
+			<property name="Magic Resistance" value="" />
+			<property name="Magic Power" value="" />
+			<property name="Element" value="" />
+			<property name="Armor Penetration" value="" />
+			<property name="Magic Penetration" value="" />
+			<property name="Duration" value="3" />
+			<property name="Flavor Text" value="" />
+			<property name="Activated Ability" value="" />
+			<property name="Equipment Slot" value="" />
+			<property name="Status Effect" value="" />
+			<property name="Charges" value="" />
 		</card>
 		<card id="16837537-3dda-4809-ac9d-c1863dcaac68" name="Undying Rage">
 			<property name="Attack Power" value="" />
 			<property name="Cost" value="" />
+			<property name="Type" value="" />
+			<property name="Prerequisites" value="" />
+			<property name="Attack Cost" value="" />
+			<property name="Block" value="" />
+			<property name="Regeneration" value="" />
+			<property name="Self Heal" value="" />
+			<property name="Rules Text" value="" />
+			<property name="Range" value="" />
+			<property name="Armor" value="" />
+			<property name="Elemental Resistance" value="" />
+			<property name="Magic Resistance" value="" />
+			<property name="Magic Power" value="" />
+			<property name="Element" value="" />
+			<property name="Armor Penetration" value="" />
+			<property name="Magic Penetration" value="" />
+			<property name="Duration" value="" />
+			<property name="Flavor Text" value="" />
+			<property name="Activated Ability" value="" />
+			<property name="Equipment Slot" value="" />
+			<property name="Status Effect" value="" />
+			<property name="Charges" value="" />
 		</card>
 		<card id="c167c35f-d4d6-4285-8d5a-b6f98a3e85c8" name="Improved Regeneration">
 			<property name="Attack Power" value="" />
 			<property name="Cost" value="2" />
+			<property name="Type" value="" />
+			<property name="Prerequisites" value="" />
+			<property name="Attack Cost" value="" />
+			<property name="Block" value="" />
+			<property name="Regeneration" value="" />
+			<property name="Self Heal" value="" />
+			<property name="Rules Text" value="" />
+			<property name="Range" value="" />
+			<property name="Armor" value="" />
+			<property name="Elemental Resistance" value="" />
+			<property name="Magic Resistance" value="" />
+			<property name="Magic Power" value="" />
+			<property name="Element" value="" />
+			<property name="Armor Penetration" value="" />
+			<property name="Magic Penetration" value="" />
+			<property name="Duration" value="" />
+			<property name="Flavor Text" value="" />
+			<property name="Activated Ability" value="" />
+			<property name="Equipment Slot" value="" />
+			<property name="Status Effect" value="" />
+			<property name="Charges" value="" />
 		</card>
 		<card id="40fcb3bc-cecf-4546-9d79-0150acad8d03" name="Cleave">
 			<property name="Attack Power" value="4" />
 			<property name="Cost" value="2" />
+			<property name="Type" value="" />
+			<property name="Prerequisites" value="" />
+			<property name="Attack Cost" value="" />
+			<property name="Block" value="" />
+			<property name="Regeneration" value="" />
+			<property name="Self Heal" value="" />
+			<property name="Rules Text" value="" />
+			<property name="Range" value="" />
+			<property name="Armor" value="" />
+			<property name="Elemental Resistance" value="" />
+			<property name="Magic Resistance" value="" />
+			<property name="Magic Power" value="" />
+			<property name="Element" value="" />
+			<property name="Armor Penetration" value="" />
+			<property name="Magic Penetration" value="" />
+			<property name="Duration" value="" />
+			<property name="Flavor Text" value="" />
+			<property name="Activated Ability" value="" />
+			<property name="Equipment Slot" value="" />
+			<property name="Status Effect" value="" />
+			<property name="Charges" value="" />
 		</card>
 		<card id="1e4450e3-19b0-411a-84e1-8b6d449f3098" name="Stun">
 			<property name="Attack Power" value="" />
 			<property name="Cost" value="" />
+			<property name="Type" value="" />
+			<property name="Prerequisites" value="" />
+			<property name="Attack Cost" value="" />
+			<property name="Block" value="" />
+			<property name="Regeneration" value="" />
+			<property name="Self Heal" value="" />
+			<property name="Rules Text" value="" />
+			<property name="Range" value="" />
+			<property name="Armor" value="" />
+			<property name="Elemental Resistance" value="" />
+			<property name="Magic Resistance" value="" />
+			<property name="Magic Power" value="" />
+			<property name="Element" value="" />
+			<property name="Armor Penetration" value="" />
+			<property name="Magic Penetration" value="" />
+			<property name="Duration" value="" />
+			<property name="Flavor Text" value="" />
+			<property name="Activated Ability" value="" />
+			<property name="Equipment Slot" value="" />
+			<property name="Status Effect" value="" />
+			<property name="Charges" value="" />
 		</card>
 		<card id="7b1d3ef0-4acf-4d2e-8229-5e5df3ee01ea" name="Whirlwind">
 			<property name="Attack Power" value="2" />
 			<property name="Cost" value="3" />
+			<property name="Type" value="" />
+			<property name="Prerequisites" value="" />
+			<property name="Attack Cost" value="" />
+			<property name="Block" value="" />
+			<property name="Regeneration" value="" />
+			<property name="Self Heal" value="" />
+			<property name="Rules Text" value="" />
+			<property name="Range" value="" />
+			<property name="Armor" value="" />
+			<property name="Elemental Resistance" value="" />
+			<property name="Magic Resistance" value="" />
+			<property name="Magic Power" value="" />
+			<property name="Element" value="" />
+			<property name="Armor Penetration" value="" />
+			<property name="Magic Penetration" value="" />
+			<property name="Duration" value="" />
+			<property name="Flavor Text" value="" />
+			<property name="Activated Ability" value="" />
+			<property name="Equipment Slot" value="" />
+			<property name="Status Effect" value="" />
+			<property name="Charges" value="" />
 		</card>
 		<card id="b4318026-4cf4-4f40-83c9-06569da70099" name="Parry">
 			<property name="Attack Power" value="" />
 			<property name="Cost" value="" />
+			<property name="Type" value="" />
+			<property name="Prerequisites" value="" />
+			<property name="Attack Cost" value="" />
+			<property name="Block" value="" />
+			<property name="Regeneration" value="" />
+			<property name="Self Heal" value="" />
+			<property name="Rules Text" value="" />
+			<property name="Range" value="" />
+			<property name="Armor" value="" />
+			<property name="Elemental Resistance" value="" />
+			<property name="Magic Resistance" value="" />
+			<property name="Magic Power" value="" />
+			<property name="Element" value="" />
+			<property name="Armor Penetration" value="" />
+			<property name="Magic Penetration" value="" />
+			<property name="Duration" value="" />
+			<property name="Flavor Text" value="" />
+			<property name="Activated Ability" value="" />
+			<property name="Equipment Slot" value="" />
+			<property name="Status Effect" value="" />
+			<property name="Charges" value="" />
 		</card>
 		<card id="9e929933-04f8-4896-9fa8-d216ece964ea" name="Chainmail">
 			<property name="Attack Power" value="" />
 			<property name="Cost" value="3" />
+			<property name="Type" value="" />
+			<property name="Prerequisites" value="" />
+			<property name="Attack Cost" value="" />
+			<property name="Block" value="" />
+			<property name="Regeneration" value="" />
+			<property name="Self Heal" value="" />
+			<property name="Rules Text" value="" />
+			<property name="Range" value="" />
+			<property name="Armor" value="" />
+			<property name="Elemental Resistance" value="" />
+			<property name="Magic Resistance" value="" />
+			<property name="Magic Power" value="" />
+			<property name="Element" value="" />
+			<property name="Armor Penetration" value="" />
+			<property name="Magic Penetration" value="" />
+			<property name="Duration" value="" />
+			<property name="Flavor Text" value="" />
+			<property name="Activated Ability" value="" />
+			<property name="Equipment Slot" value="" />
+			<property name="Status Effect" value="" />
+			<property name="Charges" value="" />
 		</card>
 		<card id="ae627d3d-dd1d-4942-9023-84e56308c1ca" name="Backstab">
 			<property name="Attack Power" value="5" />
 			<property name="Cost" value="3" />
+			<property name="Type" value="" />
+			<property name="Prerequisites" value="" />
+			<property name="Attack Cost" value="" />
+			<property name="Block" value="" />
+			<property name="Regeneration" value="" />
+			<property name="Self Heal" value="" />
+			<property name="Rules Text" value="" />
+			<property name="Range" value="" />
+			<property name="Armor" value="" />
+			<property name="Elemental Resistance" value="" />
+			<property name="Magic Resistance" value="" />
+			<property name="Magic Power" value="" />
+			<property name="Element" value="" />
+			<property name="Armor Penetration" value="" />
+			<property name="Magic Penetration" value="" />
+			<property name="Duration" value="" />
+			<property name="Flavor Text" value="" />
+			<property name="Activated Ability" value="" />
+			<property name="Equipment Slot" value="" />
+			<property name="Status Effect" value="" />
+			<property name="Charges" value="" />
 		</card>
 		<card id="102cd27a-9ef5-4d42-9e6e-220d90962264" name="Smoke Bomb">
 			<property name="Attack Power" value="" />
 			<property name="Cost" value="2" />
+			<property name="Type" value="" />
+			<property name="Prerequisites" value="" />
+			<property name="Attack Cost" value="" />
+			<property name="Block" value="" />
+			<property name="Regeneration" value="" />
+			<property name="Self Heal" value="" />
+			<property name="Rules Text" value="" />
+			<property name="Range" value="" />
+			<property name="Armor" value="" />
+			<property name="Elemental Resistance" value="" />
+			<property name="Magic Resistance" value="" />
+			<property name="Magic Power" value="" />
+			<property name="Element" value="" />
+			<property name="Armor Penetration" value="" />
+			<property name="Magic Penetration" value="" />
+			<property name="Duration" value="" />
+			<property name="Flavor Text" value="" />
+			<property name="Activated Ability" value="" />
+			<property name="Equipment Slot" value="" />
+			<property name="Status Effect" value="" />
+			<property name="Charges" value="" />
 		</card>
 		<card id="c2952db0-6b0b-4bb8-bcca-92a9bb163970" name="Poison">
 			<property name="Attack Power" value="" />
 			<property name="Cost" value="2" />
+			<property name="Type" value="" />
+			<property name="Prerequisites" value="" />
+			<property name="Attack Cost" value="" />
+			<property name="Block" value="" />
+			<property name="Regeneration" value="" />
+			<property name="Self Heal" value="" />
+			<property name="Rules Text" value="" />
+			<property name="Range" value="" />
+			<property name="Armor" value="" />
+			<property name="Elemental Resistance" value="" />
+			<property name="Magic Resistance" value="" />
+			<property name="Magic Power" value="" />
+			<property name="Element" value="" />
+			<property name="Armor Penetration" value="" />
+			<property name="Magic Penetration" value="" />
+			<property name="Duration" value="" />
+			<property name="Flavor Text" value="" />
+			<property name="Activated Ability" value="" />
+			<property name="Equipment Slot" value="" />
+			<property name="Status Effect" value="" />
+			<property name="Charges" value="" />
 		</card>
 		<card id="67ec4e04-2b8c-4a8a-87d8-632550afcc86" name="Disarm">
 			<property name="Attack Power" value="" />
 			<property name="Cost" value="2" />
+			<property name="Type" value="" />
+			<property name="Prerequisites" value="" />
+			<property name="Attack Cost" value="" />
+			<property name="Block" value="" />
+			<property name="Regeneration" value="" />
+			<property name="Self Heal" value="" />
+			<property name="Rules Text" value="" />
+			<property name="Range" value="" />
+			<property name="Armor" value="" />
+			<property name="Elemental Resistance" value="" />
+			<property name="Magic Resistance" value="" />
+			<property name="Magic Power" value="" />
+			<property name="Element" value="" />
+			<property name="Armor Penetration" value="" />
+			<property name="Magic Penetration" value="" />
+			<property name="Duration" value="" />
+			<property name="Flavor Text" value="" />
+			<property name="Activated Ability" value="" />
+			<property name="Equipment Slot" value="" />
+			<property name="Status Effect" value="" />
+			<property name="Charges" value="" />
 		</card>
 		<card id="f523a356-da54-40b7-95b1-603ca2876a81" name="Buckler">
 			<property name="Attack Power" value="" />
 			<property name="Cost" value="1" />
+			<property name="Type" value="" />
+			<property name="Prerequisites" value="" />
+			<property name="Attack Cost" value="" />
+			<property name="Block" value="" />
+			<property name="Regeneration" value="" />
+			<property name="Self Heal" value="" />
+			<property name="Rules Text" value="" />
+			<property name="Range" value="" />
+			<property name="Armor" value="" />
+			<property name="Elemental Resistance" value="" />
+			<property name="Magic Resistance" value="" />
+			<property name="Magic Power" value="" />
+			<property name="Element" value="" />
+			<property name="Armor Penetration" value="" />
+			<property name="Magic Penetration" value="" />
+			<property name="Duration" value="" />
+			<property name="Flavor Text" value="" />
+			<property name="Activated Ability" value="" />
+			<property name="Equipment Slot" value="" />
+			<property name="Status Effect" value="" />
+			<property name="Charges" value="" />
 		</card>
 		<card id="51f4c1e3-13b9-4392-9718-920814f15fcd" name="Rend Flesh">
 			<property name="Attack Power" value="1" />
 			<property name="Cost" value="2" />
+			<property name="Type" value="Ability" />
+			<property name="Rules Text" value="" />
+			<property name="Prerequisites" value="" />
+			<property name="Attack Cost" value="" />
+			<property name="Armor Penetration" value="" />
+			<property name="Range" value="" />
+			<property name="Armor" value="" />
+			<property name="Block" value="" />
+			<property name="Duration" value="" />
+			<property name="Charges" value="" />
+			<property name="Element" value="" />
+			<property name="Status Effect" value="Bleed" />
+			<property name="Regeneration" value="" />
+			<property name="Self Heal" value="" />
+			<property name="Magic Power" value="" />
+			<property name="Magic Penetration" value="" />
+			<property name="Elemental Resistance" value="" />
+			<property name="Magic Resistance" value="" />
+			<property name="Flavor Text" value="" />
+			<property name="Activated Ability" value="" />
+			<property name="Equipment Slot" value="" />
 		</card>
 		<card id="7bf22ba8-b42c-453a-a354-8402b6c813cd" name="Fireball">
 			<property name="Attack Power" value="" />
 			<property name="Cost" value="3" />
+			<property name="Type" value="Spell" />
+			<property name="Rules Text" value="" />
+			<property name="Prerequisites" value="" />
+			<property name="Attack Cost" value="" />
+			<property name="Armor Penetration" value="" />
+			<property name="Range" value="" />
+			<property name="Armor" value="" />
+			<property name="Block" value="" />
+			<property name="Duration" value="" />
+			<property name="Charges" value="" />
+			<property name="Element" value="" />
+			<property name="Status Effect" value="" />
+			<property name="Regeneration" value="" />
+			<property name="Self Heal" value="" />
+			<property name="Magic Power" value="" />
+			<property name="Magic Penetration" value="" />
+			<property name="Elemental Resistance" value="" />
+			<property name="Magic Resistance" value="" />
+			<property name="Flavor Text" value="" />
+			<property name="Activated Ability" value="" />
+			<property name="Equipment Slot" value="" />
 		</card>
 		<card id="4f00d9d1-77e6-4e5f-a5c1-d83a09953282" name="Golem">
 			<property name="Attack Power" value="" />
 			<property name="Cost" value="2" />
+			<property name="Type" value="" />
+			<property name="Rules Text" value="" />
+			<property name="Prerequisites" value="" />
+			<property name="Attack Cost" value="" />
+			<property name="Armor Penetration" value="" />
+			<property name="Range" value="" />
+			<property name="Armor" value="" />
+			<property name="Block" value="" />
+			<property name="Duration" value="" />
+			<property name="Charges" value="" />
+			<property name="Element" value="" />
+			<property name="Status Effect" value="" />
+			<property name="Regeneration" value="" />
+			<property name="Self Heal" value="" />
+			<property name="Magic Power" value="" />
+			<property name="Magic Penetration" value="" />
+			<property name="Elemental Resistance" value="" />
+			<property name="Magic Resistance" value="" />
+			<property name="Flavor Text" value="" />
+			<property name="Activated Ability" value="" />
+			<property name="Equipment Slot" value="" />
 		</card>
 		<card id="1d5e4920-a258-4e37-9098-e6408475a84b" name="Ice Shield">
 			<property name="Attack Power" value="" />
 			<property name="Cost" value="2" />
+			<property name="Type" value="" />
+			<property name="Rules Text" value="" />
+			<property name="Prerequisites" value="" />
+			<property name="Attack Cost" value="" />
+			<property name="Armor Penetration" value="" />
+			<property name="Range" value="" />
+			<property name="Armor" value="" />
+			<property name="Block" value="" />
+			<property name="Duration" value="" />
+			<property name="Charges" value="" />
+			<property name="Element" value="" />
+			<property name="Status Effect" value="" />
+			<property name="Regeneration" value="" />
+			<property name="Self Heal" value="" />
+			<property name="Magic Power" value="" />
+			<property name="Magic Penetration" value="" />
+			<property name="Elemental Resistance" value="" />
+			<property name="Magic Resistance" value="" />
+			<property name="Flavor Text" value="" />
+			<property name="Activated Ability" value="" />
+			<property name="Equipment Slot" value="" />
 		</card>
 		<card id="5d67fac0-d486-41c8-b8d7-7766b3a094ae" name="Lightning">
 			<property name="Attack Power" value="" />
