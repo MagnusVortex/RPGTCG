@@ -1079,6 +1079,177 @@
 		<card id="1030be97-0d2b-4f47-8dfa-e7492be624ab" name="Barkskin">
 			<property name="Attack Power" value="" />
 			<property name="Cost" value="2" />
+			<property name="Type" value="Spell" />
+			<property name="Rules Text" value="" />
+			<property name="Prerequisites" value="" />
+			<property name="Attack Cost" value="" />
+			<property name="Armor Penetration" value="" />
+			<property name="Range" value="" />
+			<property name="Armor" value="2" />
+			<property name="Block" value="" />
+			<property name="Duration" value="" />
+			<property name="Charges" value="" />
+			<property name="Element" value="" />
+			<property name="Status Effect" value="" />
+			<property name="Regeneration" value="" />
+			<property name="Self Heal" value="" />
+			<property name="Magic Power" value="" />
+			<property name="Magic Penetration" value="" />
+			<property name="Elemental Resistance" value="" />
+			<property name="Magic Resistance" value="" />
+			<property name="Flavor Text" value="" />
+			<property name="Activated Ability" value="" />
+			<property name="Equipment Slot" value="" />
+		</card>
+		<card id="2f53cfa8-e272-4e94-afd2-e3249eb6a2d0" name="Kill the Dragon">
+			<property name="Type" value="Quest" />
+			<property name="Rules Text" value="" />
+			<property name="Cost" value="" />
+			<property name="Prerequisites" value="" />
+			<property name="Attack Power" value="" />
+			<property name="Attack Cost" value="" />
+			<property name="Armor Penetration" value="" />
+			<property name="Range" value="" />
+			<property name="Armor" value="" />
+			<property name="Block" value="" />
+			<property name="Duration" value="" />
+			<property name="Charges" value="" />
+			<property name="Element" value="" />
+			<property name="Status Effect" value="" />
+			<property name="Regeneration" value="" />
+			<property name="Self Heal" value="" />
+			<property name="Magic Power" value="" />
+			<property name="Magic Penetration" value="" />
+			<property name="Elemental Resistance" value="" />
+			<property name="Magic Resistance" value="" />
+			<property name="Flavor Text" value="" />
+			<property name="Activated Ability" value="" />
+			<property name="Equipment Slot" value="" />
+		</card>
+		<card id="cab3399a-1a1b-42b7-86d5-5bf6a2c08db3" name="Run the gauntlet">
+			<property name="Type" value="Quest" />
+			<property name="Rules Text" value="The gauntlet contains many traps, and the kinds of traps are random. 4 traps in total." />
+			<property name="Cost" value="" />
+			<property name="Prerequisites" value="" />
+			<property name="Attack Power" value="" />
+			<property name="Attack Cost" value="" />
+			<property name="Armor Penetration" value="" />
+			<property name="Range" value="" />
+			<property name="Armor" value="" />
+			<property name="Block" value="" />
+			<property name="Duration" value="" />
+			<property name="Charges" value="" />
+			<property name="Element" value="" />
+			<property name="Status Effect" value="" />
+			<property name="Regeneration" value="" />
+			<property name="Self Heal" value="" />
+			<property name="Magic Power" value="" />
+			<property name="Magic Penetration" value="" />
+			<property name="Elemental Resistance" value="" />
+			<property name="Magic Resistance" value="" />
+			<property name="Flavor Text" value="" />
+			<property name="Activated Ability" value="" />
+			<property name="Equipment Slot" value="" />
+		</card>
+		<card id="d2b4cde4-c656-4f00-a355-acf53b62e57a" name="A Horde of Skeletons">
+			<property name="Type" value="Quest" />
+			<property name="Rules Text" value="Destroy 100 Skeletons. They have 1 HP each." />
+			<property name="Cost" value="" />
+			<property name="Prerequisites" value="" />
+			<property name="Attack Power" value="" />
+			<property name="Attack Cost" value="" />
+			<property name="Armor Penetration" value="" />
+			<property name="Range" value="" />
+			<property name="Armor" value="" />
+			<property name="Block" value="" />
+			<property name="Duration" value="" />
+			<property name="Charges" value="" />
+			<property name="Element" value="" />
+			<property name="Status Effect" value="" />
+			<property name="Regeneration" value="" />
+			<property name="Self Heal" value="" />
+			<property name="Magic Power" value="" />
+			<property name="Magic Penetration" value="" />
+			<property name="Elemental Resistance" value="" />
+			<property name="Magic Resistance" value="" />
+			<property name="Flavor Text" value="" />
+			<property name="Activated Ability" value="" />
+			<property name="Equipment Slot" value="" />
+		</card>
+		<card id="c69be95a-1022-4f4f-880d-92ff043f095a" name="Evil Wizard">
+			<property name="Type" value="Quest" />
+			<property name="Rules Text" value="There is an evil Wizard. Defeat him. He summons a golem to aid him for each opponent he faces." />
+			<property name="Cost" value="" />
+			<property name="Prerequisites" value="" />
+			<property name="Attack Power" value="" />
+			<property name="Attack Cost" value="" />
+			<property name="Armor Penetration" value="" />
+			<property name="Range" value="" />
+			<property name="Armor" value="" />
+			<property name="Block" value="" />
+			<property name="Duration" value="" />
+			<property name="Charges" value="" />
+			<property name="Element" value="" />
+			<property name="Status Effect" value="" />
+			<property name="Regeneration" value="" />
+			<property name="Self Heal" value="" />
+			<property name="Magic Power" value="" />
+			<property name="Magic Penetration" value="" />
+			<property name="Elemental Resistance" value="" />
+			<property name="Magic Resistance" value="" />
+			<property name="Flavor Text" value="" />
+			<property name="Activated Ability" value="" />
+			<property name="Equipment Slot" value="" />
+		</card>
+		<card id="b8b4f0f3-111c-4652-a3fb-c4e3ef49a466" name="Mirror Match!">
+			<property name="Type" value="Quest" />
+			<property name="Rules Text" value="Defeat an exact copy of yourself." />
+			<property name="Cost" value="" />
+			<property name="Prerequisites" value="" />
+			<property name="Attack Power" value="" />
+			<property name="Attack Cost" value="" />
+			<property name="Armor Penetration" value="" />
+			<property name="Range" value="" />
+			<property name="Armor" value="" />
+			<property name="Block" value="" />
+			<property name="Duration" value="" />
+			<property name="Charges" value="" />
+			<property name="Element" value="" />
+			<property name="Status Effect" value="" />
+			<property name="Regeneration" value="" />
+			<property name="Self Heal" value="" />
+			<property name="Magic Power" value="" />
+			<property name="Magic Penetration" value="" />
+			<property name="Elemental Resistance" value="" />
+			<property name="Magic Resistance" value="" />
+			<property name="Flavor Text" value="" />
+			<property name="Activated Ability" value="" />
+			<property name="Equipment Slot" value="" />
+		</card>
+		<card id="bf4ad6b0-9ac0-4ac2-ad46-7e5cec990ba6" name="Ro-Sham-Bo">
+			<property name="Type" value="Quest" />
+			<property name="Rules Text" value="If you lose, you get kicked in the nuts." />
+			<property name="Cost" value="" />
+			<property name="Prerequisites" value="" />
+			<property name="Attack Power" value="" />
+			<property name="Attack Cost" value="" />
+			<property name="Armor Penetration" value="" />
+			<property name="Range" value="" />
+			<property name="Armor" value="" />
+			<property name="Block" value="" />
+			<property name="Duration" value="" />
+			<property name="Charges" value="" />
+			<property name="Element" value="" />
+			<property name="Status Effect" value="" />
+			<property name="Regeneration" value="" />
+			<property name="Self Heal" value="" />
+			<property name="Magic Power" value="" />
+			<property name="Magic Penetration" value="" />
+			<property name="Elemental Resistance" value="" />
+			<property name="Magic Resistance" value="" />
+			<property name="Flavor Text" value="" />
+			<property name="Activated Ability" value="" />
+			<property name="Equipment Slot" value="" />
 		</card>
 	</cards>
 </set>
